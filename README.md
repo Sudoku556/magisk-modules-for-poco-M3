@@ -3,4 +3,5 @@ magisk modules for poco m3
 including:
 sound packs
 bug fixes 
+boot animations (on the extra branch)
 more
